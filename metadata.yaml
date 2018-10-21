@@ -1,5 +1,5 @@
 _repo: History-of-the-United-Netherlands-1587c_4853
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Netherlands -- History -- Eighty Years'' War, 1568-1648'
 - !lcc 'DH'
+- GITenberg
 title: History of the United Netherlands, 1587c
 url: http://www.gutenberg.org/ebooks/4853
